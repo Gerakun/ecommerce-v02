@@ -11,7 +11,7 @@ const loginUsuario = () => {
   console.log(correoIngresado);
   console.log(contraseñaIngresada);
   var user = "prodidac452@gmail.com";
-  var pass = "Prodidac01#";
+  var pass = "Prodidac01#"; 
 
   if( correoIngresado === user && contraseñaIngresada === pass ){
 
